@@ -1,3 +1,0 @@
-/usr/lib/ruby/2.7.0/rubygems.rb:275:in `find_spec_for_exe': can't find gem rufo (>= 0.a) with executable rufo (Gem::GemNotFoundException)
-	from /usr/lib/ruby/2.7.0/rubygems.rb:294:in `activate_bin_path'
-	from /usr/local/bin/rufo:23:in `<main>'
